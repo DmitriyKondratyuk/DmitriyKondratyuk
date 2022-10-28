@@ -9,3 +9,6 @@ I'm a passionate self-taught full stack web developer from Ukrane. My passion fo
 <!-- # My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DmitriyKondratyuk&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DmitriyKondratyuk&theme=onedark&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
