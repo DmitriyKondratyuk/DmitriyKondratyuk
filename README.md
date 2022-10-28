@@ -1,4 +1,4 @@
-# Hi I'm Dmytro 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41F772&vCenter=true&width=435&lines=Hi+I'm+Dmytro+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm a passionate self-taught full stack web developer from Ukrane. My passion for software lies with dreaming up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
