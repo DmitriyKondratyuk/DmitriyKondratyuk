@@ -12,3 +12,6 @@ I'm a passionate self-taught full stack web developer from Ukrane. My passion fo
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitriyKondratyuk&theme=onedark&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!-- [![Dmytro Kondratiuk StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16928591&layout=compact&theme=dark)](https://ru.stackoverflow.com/users/200739/dmitriy-kondratiuk) -->
