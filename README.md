@@ -11,6 +11,6 @@ I'm a self-taught full-stack web developer from Ukraine. My passion for software
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DmitriyKondratyuk&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
 
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=DmytroKondratiuk&theme=onedark&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DmytroKondratiuk&theme=onedark&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Dmytro Kondratiuk StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16928591&layout=compact&theme=dark)](https://ru.stackoverflow.com/users/200739/dmitriy-kondratiuk) -->
